@@ -1,0 +1,12 @@
+lxml
+matplotlib
+numpy==1.17.0
+tqdm==4.42.1
+torch==1.6.0
+torchvision==0.7.0
+<<<<<<< Updated upstream
+pycocotools
+Pillow
+=======
+pycocotools==2.0.0
+>>>>>>> Stashed changes
